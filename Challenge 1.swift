@@ -1,7 +1,7 @@
 import Foundation
 
-var firstName = "Chris"
-var lastName = "Ching"
+var firstName = "ohib"
+var lastName = "ul hssn"
 let gender = "Male"
 var age = 30
 var cashOnHand = 500
